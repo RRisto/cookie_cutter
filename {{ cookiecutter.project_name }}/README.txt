@@ -16,7 +16,7 @@ Project Organization
     │
     ├── models             		 <- Trained and serialized models, model predictions, or model summaries
     │
-    ├── 1.0_download_data_yourname.ipynb <- Jupyter notebook. Only for downloading data. Naming convention is a number (for ordering), a short `-` delimited description and the creator's name, e.g.`3.0_initial_data_exploration_Risto`.
+    ├── 1.0_download_data_yourname.ipynb <- Jupyter notebook. Only for downloading data. Naming convention is a number (for ordering), a short `_` delimited description and the creator's name, e.g.`3.0_initial_data_exploration_Risto`.
     │
     ├── 2.0_clean_data_yourname.ipynb    <- Jupyter notebook. about cleaning data
     │
