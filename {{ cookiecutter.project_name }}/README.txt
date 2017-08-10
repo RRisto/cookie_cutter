@@ -7,7 +7,6 @@
 Project Organization
 ------------
 
-    ├── LICENSE
     ├── README.txt          		 <- The top-level README for developers using this project.
     ├── data
     │   ├── external       		 <- Data from third party sources.
@@ -26,7 +25,7 @@ Project Organization
     ├── reports            		 <- Generated analysis as HTML, PDF, LaTeX, etc.
     │   └── figures        		 <- Generated graphics and figures to be used in reporting
     │
-    ├── src                		 <- Source code for use in this project. Add .py files to share functions between notebooks
+    └── src                		 <- Source code for use in this project. Add .py files to share functions between notebooks
        
     
 
